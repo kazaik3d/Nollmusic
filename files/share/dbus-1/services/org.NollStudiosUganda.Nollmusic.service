@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.NollStudiosUganda.Nollmusic
+Exec=/app/bin/noll-music --gapplication-service

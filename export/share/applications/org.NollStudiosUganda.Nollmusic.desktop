@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Noll-Music
+Exec=noll-music
+Icon=org.NollStudiosUganda.Nollmusic
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

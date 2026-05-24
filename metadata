@@ -1,0 +1,10 @@
+[Application]
+name=org.NollStudiosUganda.Nollmusic
+runtime=org.gnome.Platform/x86_64/48
+sdk=org.gnome.Sdk/x86_64/48
+command=noll-music
+
+[Context]
+shared=ipc;network;
+sockets=fallback-x11;pulseaudio;wayland;
+devices=dri;
